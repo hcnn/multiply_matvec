@@ -1,0 +1,12 @@
+{
+  "name": "multiply_matvec",
+  "version": "0.1.0",
+  "repo": "hcnn/multiply_matvec",
+  "description": "Matrix-Vector Multiplication",
+  "keywords": ["matrix vector multiplication", "multiplication"],
+  "license": "MIT",
+  "src": ["multiply_matvec.c", "multiply_matvec.h"],
+  "dependencies": {
+    "hcnn/rowidx": "0.1.0"
+  }
+}
